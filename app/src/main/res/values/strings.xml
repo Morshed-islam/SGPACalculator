@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">CGPA Calculator</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1851961673513824/8975827396</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-1851961673513824/2929293798</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="sub_no">Sub no</string>
+    <string name="select1"></string>
+    <string name="select2"></string>
+
+    <string-array name="courses_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+
+    <string-array name="credit_array">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+
+    </string-array>
+
+    <string-array name="grade_array">
+        <item></item>
+        <item>A+ or 4.0</item>
+        <item>A or 3.75</item>
+        <item>A- or 3.50</item>
+        <item>B+ or 3.25</item>
+        <item>B or 3.0</item>
+        <item>B- or 2.75</item>
+        <item>C+ or 2.50</item>
+        <item>C or 2.25</item>
+        <item>C- or 2.0</item>
+        <item>F</item>
+    </string-array>
+</resources>
